@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714678050148",
+    "project_id": "usbee-628cc",
+    "storage_bucket": "usbee-628cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714678050148:android:8462058d86fa8aebcb2e71",
+        "android_client_info": {
+          "package_name": "com.example.usbee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkd5LRo6RB2zGbA_qunj2MpdD2jU3tgU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

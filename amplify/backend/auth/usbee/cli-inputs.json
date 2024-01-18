@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "cognitoConfig": {
+    "identityPoolName": "usbee_identitypool_ab87289c",
+    "allowUnauthenticatedIdentities": true,
+    "authSelections": "identityPoolOnly",
+    "resourceName": "usbee",
+    "sharedId": "ab87289c",
+    "serviceName": "Cognito",
+    "useDefault": "manual"
+  }
+}

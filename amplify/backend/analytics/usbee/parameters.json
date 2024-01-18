@@ -1,0 +1,21 @@
+{
+    "appName": "usbee",
+    "roleName": "pinpointLambdaRole82e02bd9",
+    "cloudformationPolicyName": "cloudformationPolicy82e02bd9",
+    "cloudWatchPolicyName": "cloudWatchPolicy82e02bd9",
+    "pinpointPolicyName": "pinpointPolicy82e02bd9",
+    "authPolicyName": "pinpoint_amplify_82e02bd9",
+    "unauthPolicyName": "pinpoint_amplify_82e02bd9",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}
